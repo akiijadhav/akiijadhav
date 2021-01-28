@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Jadhav.</h1>
-<h3 align="center">A Front-End Developer from India, who loves coding as much as :art:</h3> <img align="right" src="https://media.giphy.com/media/QyPgvXCIQ1nbCRDIXS/giphy.gif" alt="Programmation" width="200" />
+<h4 align="left">A Front-End Developer from India, who loves coding as much as :art:</h4> <img align="right" src="https://media.giphy.com/media/QyPgvXCIQ1nbCRDIXS/giphy.gif" alt="Programmation" width="200" />
 
 
 - 🔭 I’m currently working on **building JavaScript projects with MERN + GraphQL Stack +...**
