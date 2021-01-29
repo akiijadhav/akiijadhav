@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **everything from ZTM Academy, to become a FullStack Developer :relaxed:**
 
-- 👨‍💻 All of my projects & experiences are available at [https://standardresume.co/r/akii](https://standardresume.co/r/akii)
+- 👨‍💻 All of my projects & experiences are available at [Online Resume](https://standardresume.co/r/akii)
 
 - 📫 How to reach me **akiijadhav22@gmail.com**
 
