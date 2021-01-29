@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!, I'm Akhilesh Jadhav.</h1>
-<h4 align="left">A Front-End Developer from India, who loves coding as much as :art:</h4> <img align="right" src="https://i.pinimg.com/originals/b1/01/f7/b101f74d6f6708c405e04b6f2d58de04.jpg " alt="Vickysigh Artwork" width="300">
+<h4 align="left">A Front-End Developer from India, who loves coding as much as :art:</h4> <img align="right" src="https://i.pinimg.com/originals/33/34/90/3334906157df37afd090873fdd92d617.png" alt="Vickysigh Artwork" width="300">
 
 
 - 🔭 I’m currently working on **building JavaScript projects with MERN + GraphQL Stack +...**
