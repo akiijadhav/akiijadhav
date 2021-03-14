@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **akiijadhav22@gmail.com**
 
-- ⚡ Fun fact **I don't look my age! :wink:**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tessxxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tessxxx" height="30" width="40" /></a>
