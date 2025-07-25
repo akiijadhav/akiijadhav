@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Jadhav</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
 
-- 🔭 I’m currently working on [Strands.Finance](https://interface-git-dev-strands-finance.vercel.app/)
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻  Know about my experiences & All of my projects at [https://standardresume.co/r/akii](https://standardresume.co/r/akii)
