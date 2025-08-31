@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Jadhav</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently building intelligent systems with MCP, RAG, and AI Agents in **Python**
 
 - 👨‍💻  Know about my experiences & All of my projects at [https://standardresume.co/r/akii](https://standardresume.co/r/akii)
 
