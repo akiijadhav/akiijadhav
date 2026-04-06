@@ -10,6 +10,6 @@ Full-stack engineer with 5+ years in production. I love building **micro-SaaS pr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhileshjadhav)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akiijadhav22@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1brfEx0EYGJQ8DHUD05aTD4u_pvznOMCb/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tTxp4hs2ZvUoL48HkDVxOABYa1o_zf4f/view?usp=sharing)
 
 </div>
